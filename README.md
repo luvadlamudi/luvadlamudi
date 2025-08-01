@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer exploring AI and security in real-world settings<br>Studying Computer Science at Texas A&M University<br>Building automation workflows and community websites
+Software Engineer exploring AI and security in real-world settings<br>Studying Computer Science at Texas A&M University<br>Crafting end-to-end automation pipelines and full-stack web applications
 
 
 
