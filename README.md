@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-im currently a sophomore majoring in computer science at texas a&m university<br><br>learning about ai/ml and security
+Software Engineer exploring AI and security in real-world settings<br><br>Studying Computer Science at Texas A&M University<br><br>Building automation workflows and community websites
 
 
 
