@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer exploring AI and security in real-world settings<br>Studying Computer Science at Texas A&M University<br>Crafting workflow automation pipelines and full-stack web applications
+Building and researching infrastructure for AI-native products.<br>
+Focused on inference optimization, distributed systems, and agentic solutions.<br>
+Interested in LLM architecture, AI Safety, and all things security!<br>
 
+Open to collaboration, research conversations, and opportunities to contribute.<br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lvadlamudi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasvad123@gmail.com) 
